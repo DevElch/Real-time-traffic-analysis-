@@ -3,7 +3,7 @@ import numpy as np
 from ultralytics import YOLO
 from collections import defaultdict
 
-VIDEO_PATH = r"C:\Users\ehabillayev.53104\Downloads\Rainy Midtown Manhattan 4K - Driving Downtown - New York City USA - J Utah (1080p, h264).mp4"
+VIDEO_PATH = r"video.mp4"
 CONF_THRES = 0.4
 DIST_THRESH = 80
 DEVICE = "cpu"
@@ -131,3 +131,4 @@ while cap.isOpened():
 
 cap.release()
 cv2.destroyAllWindows()
+
