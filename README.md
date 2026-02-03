@@ -13,7 +13,10 @@ A real-time vehicle detection and tracking project using **YOLOv8** and **OpenCV
 
 * **Customizable Visuals:** Color-coded bounding boxes for different classes (Car, Truck, Bus, etc.).
 
----
+---<img width="1408" height="768" alt="Gemini_Generated_Image_xacxqzxacxqzxacx" src="https://github.com/user-attachments/assets/fbda6ba5-6cae-4e8b-8c08-b8d58f1f7f75" />
+
+<img width="1024" height="1024" alt="Gemini_Generated_Image_3r1mz63r1mz63r1m" src="https://github.com/user-attachments/assets/681f7d38-732c-45ec-866b-c4097ad474b3" />
+
 
 ## ⚖️ Ethical Statement & Intent
 
